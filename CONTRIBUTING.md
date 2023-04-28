@@ -1,4 +1,4 @@
 # Contributing File
 Contributors:
-@meaghan66
+Meaghan Freund mof25@nau.edu
 
